@@ -1,5 +1,8 @@
 # Liquidación de contratos laborales
 
+**Debido a que el proyecto pesaba más de 25 MB, no me permitió subir el proyecto completo; por esa razón, anexo el link del proyecto en Drive**
+**El siguiente link es donde se encuentra almacenado el proyecto; por favor, descárgalo:** https://drive.google.com/file/d/1RhAr9CvQvIn8cG2xIW1BMljTTDataVWN/view?usp=sharing
+
 _Por favor usar ctrl + Shift + V para leer el siguiente readme.md y también la DOCUMENTACION.md_
 
 Aplicación web en **Laravel** para gestionar trabajadores, empresas y contratos, y liquidar **prestaciones sociales e indemnización** (Art. 64 C.S.T.) según el formato estándar de la prueba técnica. Cada contrato liquidado se puede exportar a Excel en el formato original.
